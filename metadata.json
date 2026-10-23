@@ -1,0 +1,6 @@
+{
+  "name": "English Olympiad Arena - Grade 7-8 Training & Safe Exam",
+  "description": "Comprehensive English Olympiad training platform for Grade 7-8 students featuring practice tests across syllabus categories, Safe Exam Browser lockdown, progress tracking, and teacher management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
